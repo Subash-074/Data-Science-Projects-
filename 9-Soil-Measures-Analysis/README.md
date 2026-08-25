@@ -41,3 +41,4 @@ This project analyzes soil measurements and properties to understand soil compos
 - Soil type classification
 - Agricultural implications
 - Environmental factors influencing soil quality
+.ss

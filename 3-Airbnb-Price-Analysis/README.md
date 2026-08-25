@@ -41,3 +41,4 @@ This project analyzes NYC Airbnb listing prices to understand pricing factors, m
 - Geographic price variations across NYC neighborhoods
 - Room type impact on pricing
 - Review ratings distribution and influence on prices
+.ss

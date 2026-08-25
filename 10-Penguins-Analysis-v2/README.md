@@ -41,3 +41,4 @@ This project provides an in-depth analysis of the Palmer Penguins dataset with a
 - Statistical significance of differences
 - Optimal modeling approaches
 - Comparative analysis with version 1
+.ss

@@ -35,3 +35,4 @@ This project analyzes the Nobel Prize dataset to uncover insights about prize wi
 - Explore patterns in Nobel Prize distribution
 - Analyze gender distribution across categories
 - Study temporal trends in prize-winning
+.ss

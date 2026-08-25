@@ -43,3 +43,4 @@ This project analyzes men's and women's soccer results to identify patterns in p
 - Goal-scoring patterns
 - Home advantage analysis
 - Historical trends in soccer competitions
+.ss

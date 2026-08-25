@@ -41,3 +41,4 @@ This project analyzes DVD rental data to understand rental patterns, customer pr
 - Seasonal trends in DVD rentals
 - Revenue optimization opportunities
 - Customer segmentation insights
+.ss

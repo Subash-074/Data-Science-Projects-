@@ -37,3 +37,4 @@ This project analyzes Los Angeles crime data to identify patterns, trends, and i
 - Geographic distribution of crime in LA
 - Temporal patterns and seasonal trends
 - Crime type frequency and severity analysis
+.ss

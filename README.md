@@ -187,3 +187,4 @@ This portfolio is open source. Feel free to explore and learn from the projects!
 Thank you for reviewing my data science portfolio. Each project represents my dedication to learning, problem-solving, and applying data science to real-world challenges. I'm excited about the opportunity to bring these skills to a working student position in Berlin!
 
 **Last Updated:** August 2026
+.ss

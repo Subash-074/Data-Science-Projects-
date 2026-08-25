@@ -40,3 +40,4 @@ This project analyzes human resources and customer training data to identify pat
 - Demographic patterns in success rates
 - Customer satisfaction correlations
 - Predictive factors for employee retention
+.ss
