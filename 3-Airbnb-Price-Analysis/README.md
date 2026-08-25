@@ -27,7 +27,7 @@ This project analyzes NYC Airbnb listing prices to understand pricing factors, m
 - Matplotlib, Seaborn
 - Scikit-learn (for modeling)
 
-## Data Science Concepts Covered
+## Key Concepts
 - **Regression Analysis** - Predicting continuous values (prices)
 - **Feature Engineering** - Creating meaningful features
 - **Exploratory Data Analysis** - Understanding data relationships

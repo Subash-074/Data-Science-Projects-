@@ -25,7 +25,7 @@ This project analyzes car insurance dataset to understand factors affecting insu
 - Matplotlib, Seaborn
 - Scikit-learn (for modeling)
 
-## Data Science Concepts Covered
+## Key Concepts
 - **Risk Assessment** - Evaluating insurance risk
 - **Classification Models** - Predicting claim likelihood
 - **Feature Importance** - Identifying key risk factors

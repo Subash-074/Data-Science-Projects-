@@ -26,7 +26,7 @@ This project provides an alternative analysis of car insurance data with differe
 - Scikit-learn
 - Advanced statistical analysis
 
-## Data Science Concepts Covered
+## Key Concepts
 - **Advanced Machine Learning** - Complex model architectures
 - **Model Optimization** - Hyperparameter tuning and improvement
 - **Feature Engineering** - Advanced feature creation

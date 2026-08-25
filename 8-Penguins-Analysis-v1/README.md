@@ -24,7 +24,7 @@ This project analyzes the Palmer Penguins dataset to explore penguin species cha
 - Matplotlib, Seaborn
 - Scikit-learn (for classification)
 
-## Data Science Concepts Covered
+## Key Concepts
 - **Classification Modeling** - Multi-class species prediction
 - **Exploratory Data Analysis** - Data discovery and profiling
 - **Pattern Recognition** - Species differentiation patterns

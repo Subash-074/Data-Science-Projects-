@@ -25,7 +25,7 @@ This project provides an in-depth analysis of the Palmer Penguins dataset with a
 - Scikit-learn
 - Advanced machine learning techniques
 
-## Data Science Concepts Covered
+## Key Concepts
 - **Advanced Classification** - Sophisticated prediction models
 - **Statistical Hypothesis Testing** - Validating assumptions
 - **Model Optimization** - Achieving peak performance

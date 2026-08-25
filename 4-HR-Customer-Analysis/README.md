@@ -26,7 +26,7 @@ This project analyzes human resources and customer training data to identify pat
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## Data Science Concepts Covered
+## Key Concepts
 - **Classification Analysis** - Categorizing outcomes
 - **Predictive Modeling** - Forecasting performance and retention
 - **Correlation Analysis** - Identifying key relationships

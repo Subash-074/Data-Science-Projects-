@@ -25,7 +25,7 @@ This project analyzes Los Angeles crime data to identify patterns, trends, and i
 - Matplotlib, Seaborn
 - Geospatial analysis tools
 
-## Data Science Concepts Covered
+## Key Concepts
 - **Geospatial Analysis** - Mapping and location-based insights
 - **Temporal Analysis** - Time-series and seasonal patterns
 - **Hotspot Detection** - Identifying high-crime areas

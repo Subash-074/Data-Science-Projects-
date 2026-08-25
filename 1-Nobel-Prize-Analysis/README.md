@@ -23,7 +23,7 @@ This project analyzes the Nobel Prize dataset to uncover insights about prize wi
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
-## Data Science Concepts Covered
+## Key Concepts
 - **Exploratory Data Analysis (EDA)** - Data exploration and summary statistics
 - **Data Visualization** - Creating insightful charts and graphs
 - **Aggregation & Grouping** - Summarizing data by categories
