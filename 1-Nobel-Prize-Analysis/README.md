@@ -23,6 +23,14 @@ This project analyzes the Nobel Prize dataset to uncover insights about prize wi
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
+## Data Science Concepts Covered
+- **Exploratory Data Analysis (EDA)** - Data exploration and summary statistics
+- **Data Visualization** - Creating insightful charts and graphs
+- **Aggregation & Grouping** - Summarizing data by categories
+- **Temporal Analysis** - Analyzing trends over time
+- **Statistical Analysis** - Descriptive statistics and distributions
+- **Pattern Recognition** - Identifying trends and patterns
+
 ## Key Insights
 - Explore patterns in Nobel Prize distribution
 - Analyze gender distribution across categories

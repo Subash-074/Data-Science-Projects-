@@ -25,6 +25,16 @@ This project analyzes soil measurements and properties to understand soil compos
 - Matplotlib, Seaborn
 - Scikit-learn (for classification/clustering)
 
+## Data Science Concepts Covered
+- **Clustering Analysis** - Grouping similar soil types
+- **Classification Models** - Soil type prediction
+- **Correlation Analysis** - Property relationships
+- **Exploratory Data Analysis** - Feature discovery
+- **Feature Importance** - Key soil properties
+- **Dimensionality Reduction** - Simplifying complex data
+- **Data Visualization** - Soil characteristic relationships
+- **Statistical Analysis** - Property distributions
+
 ## Key Insights
 - Soil composition patterns
 - Property correlations and relationships

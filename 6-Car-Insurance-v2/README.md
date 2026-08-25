@@ -26,6 +26,16 @@ This project provides an alternative analysis of car insurance data with differe
 - Scikit-learn
 - Advanced statistical analysis
 
+## Data Science Concepts Covered
+- **Advanced Machine Learning** - Complex model architectures
+- **Model Optimization** - Hyperparameter tuning and improvement
+- **Feature Engineering** - Advanced feature creation
+- **Model Comparison** - Evaluating multiple algorithms
+- **Cross-Validation** - Robust model evaluation
+- **Feature Interactions** - Understanding complex relationships
+- **Business Analytics** - ROI and pricing optimization
+- **Model Interpretation** - Explaining predictions
+
 ## Key Insights
 - Refined risk assessment models
 - Feature interactions and correlations

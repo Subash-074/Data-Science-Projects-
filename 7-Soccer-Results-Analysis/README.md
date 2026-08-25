@@ -27,6 +27,16 @@ This project analyzes men's and women's soccer results to identify patterns in p
 - Matplotlib, Seaborn
 - Sports analytics libraries
 
+## Data Science Concepts Covered
+- **Sports Analytics** - Performance measurement and analysis
+- **Comparative Analysis** - Gender and team comparisons
+- **Performance Metrics** - KPIs and statistical measures
+- **Trend Analysis** - Historical pattern identification
+- **Exploratory Data Analysis** - Data profiling
+- **Statistical Testing** - Significant difference validation
+- **Data Visualization** - Sports metrics visualization
+- **Aggregation Analysis** - Team and player summaries
+
 ## Key Insights
 - Gender performance comparison
 - Team performance metrics

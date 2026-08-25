@@ -25,6 +25,16 @@ This project analyzes DVD rental data to understand rental patterns, customer pr
 - Matplotlib, Seaborn
 - Business analytics
 
+## Data Science Concepts Covered
+- **Time Series Analysis** - Temporal trend identification
+- **Customer Segmentation** - Identifying customer groups
+- **Business Analytics** - Revenue and performance metrics
+- **Trend Analysis** - Seasonal and cyclical patterns
+- **Exploratory Data Analysis** - Transaction profiling
+- **Aggregation & Grouping** - Summary statistics
+- **Categorical Analysis** - Genre and title preferences
+- **Data Visualization** - Business metrics visualization
+
 ## Key Insights
 - Popular genres and titles
 - Customer rental patterns

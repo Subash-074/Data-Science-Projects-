@@ -26,6 +26,15 @@ This project analyzes human resources and customer training data to identify pat
 - Matplotlib, Seaborn
 - Scikit-learn
 
+## Data Science Concepts Covered
+- **Classification Analysis** - Categorizing outcomes
+- **Predictive Modeling** - Forecasting performance and retention
+- **Correlation Analysis** - Identifying key relationships
+- **Exploratory Data Analysis** - Understanding patterns
+- **Demographic Analysis** - Segment and cohort analysis
+- **Performance Metrics** - Evaluating success factors
+- **Statistical Testing** - Hypothesis validation
+
 ## Key Insights
 - Training impact on employee performance
 - Demographic patterns in success rates

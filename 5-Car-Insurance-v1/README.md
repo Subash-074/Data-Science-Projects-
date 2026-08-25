@@ -25,6 +25,15 @@ This project analyzes car insurance dataset to understand factors affecting insu
 - Matplotlib, Seaborn
 - Scikit-learn (for modeling)
 
+## Data Science Concepts Covered
+- **Risk Assessment** - Evaluating insurance risk
+- **Classification Models** - Predicting claim likelihood
+- **Feature Importance** - Identifying key risk factors
+- **Exploratory Data Analysis** - Understanding claim patterns
+- **Regression Analysis** - Premium pricing prediction
+- **Statistical Analysis** - Risk distribution analysis
+- **Model Evaluation** - Assessing prediction accuracy
+
 ## Key Insights
 - Demographics impact on claim frequency
 - Vehicle characteristics affecting insurance risk

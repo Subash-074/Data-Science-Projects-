@@ -27,6 +27,15 @@ This project analyzes NYC Airbnb listing prices to understand pricing factors, m
 - Matplotlib, Seaborn
 - Scikit-learn (for modeling)
 
+## Data Science Concepts Covered
+- **Regression Analysis** - Predicting continuous values (prices)
+- **Feature Engineering** - Creating meaningful features
+- **Exploratory Data Analysis** - Understanding data relationships
+- **Correlation Analysis** - Identifying variable relationships
+- **Categorical Analysis** - Room type and neighborhood effects
+- **Predictive Modeling** - Price prediction models
+- **Data Visualization** - Communicating insights effectively
+
 ## Key Insights
 - Price determinants and correlation analysis
 - Geographic price variations across NYC neighborhoods
