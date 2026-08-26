@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Welcome to my comprehensive Data Science project portfolio! This repository showcases diverse data science projects spanning exploratory data analysis, statistical modeling, machine learning, and predictive analytics.
+Welcome to my comprehensive Data Science project portfolio! This repository showcases diverse data science projects spanning exploratory data analysis, statistical modeling, machine learning, and predictive analytics. All these projects were done and submitted in DataCamp Datalab as a part of Data Science Certification course in Python and pushed to github all at once. 
 
 ## 🎯 About Me
 
