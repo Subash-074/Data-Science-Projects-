@@ -15,7 +15,7 @@ This repository contains **11 data science projects** covering:
 - **Business Analytics** - Actionable insights for business decisions
 - **Geospatial Analysis** - Location-based data insights
 - **Time Series Analysis** - Temporal trend identification
-- **Machine Learning** - Advanced algorithms and model optimization
+- **Machine Learning** - Algorithms and model optimization
 
 ---
 
