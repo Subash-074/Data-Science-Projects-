@@ -4,8 +4,7 @@ Welcome to my comprehensive Data Science project portfolio! This repository show
 
 ## 🎯 About Me
 
-I am a passionate data science student seeking **Working Student Roles** in Berlin. This portfolio demonstrates my hands-on expertise in data analysis, machine learning, and business analytics across various real-world datasets. Each project reflects practical application of data science concepts and modern analytical techniques.
-
+I am a passionate Computer science student seeking **Working Student Roles** in Berlin. 
 ## 📊 Portfolio Overview
 
 This repository contains **11 data science projects** covering:
